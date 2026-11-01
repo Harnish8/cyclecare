@@ -5,7 +5,7 @@ export const policyMeta = {
   title: "CycleCare Privacy Policy (DRAFT)",
   lastUpdated: "01-Nov-2026",
   developer: "CycleCare",
-  contact: "cyclecare@gmail.com",
+  contact: "uday@gmail.com",
   note:
     "Draft written for the CycleCare app. Replace the [brackets], check that it matches what your final app really does, and have a qualified person review it before publishing.",
 };
