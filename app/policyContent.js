@@ -2,7 +2,7 @@
 // Replace the [BRACKETS] before publishing.
 
 export const policyMeta = {
-  title: "CycleCare Privacy Policy (DRAFT)",
+  title: "CycleCare Privacy Policy",
   lastUpdated: "01-Nov-2026",
   developer: "CycleCare",
   contact: "uday@gmail.com",
